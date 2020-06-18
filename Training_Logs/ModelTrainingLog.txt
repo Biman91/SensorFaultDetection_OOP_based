@@ -1,0 +1,147 @@
+2020-06-13       01:5806     Start of training 
+2020-06-13       01:5806     Entered get_data method 
+2020-06-13       01:5806     Data load successfully 
+2020-06-13       01:5806     Entered remove_columns method 
+2020-06-13       01:5806     Column removal successful 
+2020-06-13       01:5806     Enter Separate labeled column 
+2020-06-13       01:5806     Label separation successful 
+2020-06-13       01:5806     Entered is_null_present method 
+2020-06-13       01:5806     Finding missing value is success 
+2020-06-13       01:5806     Entered impute_missing_value method 
+2020-06-13       01:5812     Imputed missing values are success 
+2020-06-13       01:5812     Entered get_column_with_zero_std_dev method 
+2020-06-13       01:5814     column search for std is successful 
+2020-06-13       01:5814     Entered remove_columns method 
+2020-06-13       01:5814     Column removal successful 
+2020-06-13       01:5814     Enterened elbow_plot method 
+2020-06-13       01:5819     Optimum number of cluster is 3 
+2020-06-13       01:5819     Entered create_clusters method 
+2020-06-13       01:5820     Entered the save model in file operation class 
+2020-06-13       01:5820     model file KMeans saved 
+2020-06-13       01:5820     Successfully created cluster 
+2020-06-13       01:5820     Entered the get_best_model method 
+2020-06-13       01:5820     Entered the get_best_params_for_xgboost method 
+2020-06-13       02:0626     XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 50} 
+2020-06-13       02:0627     AUC for XGBoost: 0.8461538461538461 
+2020-06-13       02:0627     Entered get_best_params_for_random_forest method 
+2020-06-13       02:0707     Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10} 
+2020-06-13       02:0707     AUC for RF: 0.5 
+2020-06-13       02:0707     Entered the save model in file operation class 
+2020-06-13       02:0707     model file XGBoost2 saved 
+2020-06-13       02:0707     Entered the get_best_model method 
+2020-06-13       02:0707     Entered the get_best_params_for_xgboost method 
+2020-06-13       02:0803     XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10} 
+2020-06-13       02:0803     AUC for XGBoost: 1.0 
+2020-06-13       02:0803     Entered get_best_params_for_random_forest method 
+2020-06-13       02:0827     Random Forest best params: {'criterion': 'gini', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 10} 
+2020-06-13       02:0827     AUC for RF: 0.75 
+2020-06-13       02:0827     Entered the save model in file operation class 
+2020-06-13       02:0827     model file XGBoost0 saved 
+2020-06-13       02:0827     Entered the get_best_model method 
+2020-06-13       02:0827     Entered the get_best_params_for_xgboost method 
+2020-06-13       02:1025     XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 50} 
+2020-06-13       02:1025     AUC for XGBoost: 0.8493909191583611 
+2020-06-13       02:1025     Entered get_best_params_for_random_forest method 
+2020-06-13       02:1055     Random Forest best params: {'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 50} 
+2020-06-13       02:1055     AUC for RF: 0.5714285714285714 
+2020-06-13       02:1055     Entered the save model in file operation class 
+2020-06-13       02:1055     model file XGBoost1 saved 
+2020-06-13       02:1055     Training Successfull 
+2020-06-15       15:4042     Start of training 
+2020-06-15       15:4042     Entered get_data method 
+2020-06-15       15:4042     Data load successfully 
+2020-06-15       15:4042     Entered remove_columns method 
+2020-06-15       15:4042     Column removal successful 
+2020-06-15       15:4042     Enter Separate labeled column 
+2020-06-15       15:4042     Label separation successful 
+2020-06-15       15:4042     Entered is_null_present method 
+2020-06-15       15:4042     Finding missing value is success 
+2020-06-15       15:4042     Entered impute_missing_value method 
+2020-06-15       15:4047     Imputed missing values are success 
+2020-06-15       15:4047     Entered get_column_with_zero_std_dev method 
+2020-06-15       15:4049     column search for std is successful 
+2020-06-15       15:4049     Entered remove_columns method 
+2020-06-15       15:4049     Column removal successful 
+2020-06-15       15:4049     Enterened elbow_plot method 
+2020-06-15       15:4056     Optimum number of cluster is 3 
+2020-06-15       15:4056     Entered create_clusters method 
+2020-06-15       15:4056     Entered the save model in file operation class 
+2020-06-15       15:4056     model file KMeans saved 
+2020-06-15       15:4056     Successfully created cluster 
+2020-06-15       15:4056     Entered the get_best_model method 
+2020-06-15       15:4056     Entered the get_best_params_for_xgboost method 
+2020-06-15       15:4841     XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 50} 
+2020-06-15       15:4841     AUC for XGBoost: 0.8461538461538461 
+2020-06-15       15:4841     Entered get_best_params_for_random_forest method 
+2020-06-15       15:4921     Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10} 
+2020-06-15       15:4921     AUC for RF: 0.5 
+2020-06-15       15:4921     Entered the save model in file operation class 
+2020-06-15       15:4921     model file XGBoost2 saved 
+2020-06-15       15:4921     Entered the get_best_model method 
+2020-06-15       15:4921     Entered the get_best_params_for_xgboost method 
+2020-06-15       15:5014     XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10} 
+2020-06-15       15:5014     AUC for XGBoost: 1.0 
+2020-06-15       15:5014     Entered get_best_params_for_random_forest method 
+2020-06-15       15:5040     Random Forest best params: {'criterion': 'gini', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 130} 
+2020-06-15       15:5040     AUC for RF: 0.75 
+2020-06-15       15:5040     Entered the save model in file operation class 
+2020-06-15       15:5040     model file XGBoost0 saved 
+2020-06-15       15:5040     Entered the get_best_model method 
+2020-06-15       15:5040     Entered the get_best_params_for_xgboost method 
+2020-06-15       15:5245     XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 50} 
+2020-06-15       15:5245     AUC for XGBoost: 0.8493909191583611 
+2020-06-15       15:5245     Entered get_best_params_for_random_forest method 
+2020-06-15       15:5314     Random Forest best params: {'criterion': 'gini', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 10} 
+2020-06-15       15:5314     AUC for RF: 0.6428571428571428 
+2020-06-15       15:5314     Entered the save model in file operation class 
+2020-06-15       15:5314     model file XGBoost1 saved 
+2020-06-15       15:5314     Training Successfull 
+2020-06-18       15:0035     Start of training 
+2020-06-18       15:0035     Entered get_data method 
+2020-06-18       15:0035     Data load successfully 
+2020-06-18       15:0035     Entered remove_columns method 
+2020-06-18       15:0035     Column removal successful 
+2020-06-18       15:0035     Enter Separate labeled column 
+2020-06-18       15:0035     Label separation successful 
+2020-06-18       15:0035     Entered is_null_present method 
+2020-06-18       15:0035     Finding missing value is success 
+2020-06-18       15:0035     Entered impute_missing_value method 
+2020-06-18       15:0040     Imputed missing values are success 
+2020-06-18       15:0040     Entered get_column_with_zero_std_dev method 
+2020-06-18       15:0042     column search for std is successful 
+2020-06-18       15:0042     Entered remove_columns method 
+2020-06-18       15:0042     Column removal successful 
+2020-06-18       15:0042     Enterened elbow_plot method 
+2020-06-18       15:0049     Optimum number of cluster is 3 
+2020-06-18       15:0049     Entered create_clusters method 
+2020-06-18       15:0049     Entered the save model in file operation class 
+2020-06-18       15:0049     model file KMeans saved 
+2020-06-18       15:0049     Successfully created cluster 
+2020-06-18       15:0049     Entered the get_best_model method 
+2020-06-18       15:0049     Entered the get_best_params_for_xgboost method 
+2020-06-18       15:0824     XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 50} 
+2020-06-18       15:0824     AUC for XGBoost: 0.8461538461538461 
+2020-06-18       15:0824     Entered get_best_params_for_random_forest method 
+2020-06-18       15:0902     Random Forest best params: {'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 10} 
+2020-06-18       15:0902     AUC for RF: 0.5 
+2020-06-18       15:0902     Entered the save model in file operation class 
+2020-06-18       15:0902     model file XGBoost2 saved 
+2020-06-18       15:0902     Entered the get_best_model method 
+2020-06-18       15:0902     Entered the get_best_params_for_xgboost method 
+2020-06-18       15:0954     XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10} 
+2020-06-18       15:0954     AUC for XGBoost: 1.0 
+2020-06-18       15:0954     Entered get_best_params_for_random_forest method 
+2020-06-18       15:1021     Random Forest best params: {'criterion': 'gini', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 100} 
+2020-06-18       15:1021     AUC for RF: 0.625 
+2020-06-18       15:1021     Entered the save model in file operation class 
+2020-06-18       15:1021     model file XGBoost0 saved 
+2020-06-18       15:1021     Entered the get_best_model method 
+2020-06-18       15:1021     Entered the get_best_params_for_xgboost method 
+2020-06-18       15:1215     XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 50} 
+2020-06-18       15:1215     AUC for XGBoost: 0.8493909191583611 
+2020-06-18       15:1215     Entered get_best_params_for_random_forest method 
+2020-06-18       15:1243     Random Forest best params: {'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 50} 
+2020-06-18       15:1243     AUC for RF: 0.7142857142857143 
+2020-06-18       15:1243     Entered the save model in file operation class 
+2020-06-18       15:1243     model file XGBoost1 saved 
+2020-06-18       15:1243     Training Successfull 

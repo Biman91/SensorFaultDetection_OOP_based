@@ -1,0 +1,254 @@
+2020-06-15       17:0417     Strat Prediction 
+2020-06-15       17:0417     Entered the get_data method 
+2020-06-15       17:0417     Exception occured in get_data method 
+2020-06-15       17:0417     Data Load Unsuccessful 
+2020-06-15       17:0620     Strat Prediction 
+2020-06-15       17:0620     Entered the get_data method 
+2020-06-15       17:0620     Data Load Successful 
+2020-06-15       17:0620     Entered is_null_present method 
+2020-06-15       17:0620     Finding missing value is success 
+2020-06-15       17:0620     Entered impute_missing_value method 
+2020-06-15       17:0621     Imputed missing values are success 
+2020-06-15       17:0621     Entered get_column_with_zero_std_dev method 
+2020-06-15       17:0623     column search for std is successful 
+2020-06-15       17:0623     Entered remove_columns method 
+2020-06-15       17:0623     Column removal successful 
+2020-06-15       17:0623     Entered the load_model method 
+2020-06-15       17:0623     model file KMeans loaded 
+2020-06-15       17:0623     Entered the find_correct_model_file method 
+2020-06-15       17:0623     Exited the find_correct_model_file method 
+2020-06-15       17:0623     Entered the load_model method 
+2020-06-15       17:0623     model file XGBoost2 loaded 
+2020-06-15       17:0846     Strat Prediction 
+2020-06-15       17:0846     Entered the get_data method 
+2020-06-15       17:0846     Data Load Successful 
+2020-06-15       17:0846     Entered is_null_present method 
+2020-06-15       17:0846     Finding missing value is success 
+2020-06-15       17:0846     Entered impute_missing_value method 
+2020-06-15       17:0847     Imputed missing values are success 
+2020-06-15       17:0847     Entered get_column_with_zero_std_dev method 
+2020-06-15       17:0849     column search for std is successful 
+2020-06-15       17:0849     Entered remove_columns method 
+2020-06-15       17:0849     Column removal successful 
+2020-06-15       17:0849     Entered the load_model method 
+2020-06-15       17:0849     model file KMeans loaded 
+2020-06-15       17:0849     Entered the find_correct_model_file method 
+2020-06-15       17:0849     Exited the find_correct_model_file method 
+2020-06-15       17:0849     Entered the load_model method 
+2020-06-15       17:0849     model file XGBoost2 loaded 
+2020-06-15       17:0849     Entered the find_correct_model_file method 
+2020-06-15       17:0849     Exited the find_correct_model_file method 
+2020-06-15       17:0849     Entered the load_model method 
+2020-06-15       17:0849     model file XGBoost0 loaded 
+2020-06-15       17:0849     Entered the find_correct_model_file method 
+2020-06-15       17:0849     Exited the find_correct_model_file method 
+2020-06-15       17:0849     Entered the load_model method 
+2020-06-15       17:0849     model file XGBoost1 loaded 
+2020-06-15       17:0850     End of Prediction 
+2020-06-15       20:1906     Strat Prediction 
+2020-06-15       20:1906     Entered the get_data method 
+2020-06-15       20:1906     Data Load Successful 
+2020-06-15       20:1906     Entered is_null_present method 
+2020-06-15       20:1906     Finding missing value is success 
+2020-06-15       20:1906     Entered impute_missing_value method 
+2020-06-15       20:1907     Imputed missing values are success 
+2020-06-15       20:1907     Entered get_column_with_zero_std_dev method 
+2020-06-15       20:1909     column search for std is successful 
+2020-06-15       20:1909     Entered remove_columns method 
+2020-06-15       20:1909     Column removal successful 
+2020-06-15       20:1909     Entered the load_model method 
+2020-06-15       20:1909     model file KMeans loaded 
+2020-06-15       20:1909     Entered the find_correct_model_file method 
+2020-06-15       20:1909     Exited the find_correct_model_file method 
+2020-06-15       20:1909     Entered the load_model method 
+2020-06-15       20:1909     model file XGBoost2 loaded 
+2020-06-15       20:1909     Entered the find_correct_model_file method 
+2020-06-15       20:1909     Exited the find_correct_model_file method 
+2020-06-15       20:1909     Entered the load_model method 
+2020-06-15       20:1909     model file XGBoost0 loaded 
+2020-06-15       20:1909     Entered the find_correct_model_file method 
+2020-06-15       20:1909     Exited the find_correct_model_file method 
+2020-06-15       20:1909     Entered the load_model method 
+2020-06-15       20:1909     model file XGBoost1 loaded 
+2020-06-15       20:1909     End of Prediction 
+2020-06-16       01:0432     Strat Prediction 
+2020-06-16       01:0534     Strat Prediction 
+2020-06-16       01:0643     Strat Prediction 
+2020-06-16       01:0643     Entered the get_data method 
+2020-06-16       01:0644     Data Load Successful 
+2020-06-16       01:0644     Entered is_null_present method 
+2020-06-16       01:0644     Finding missing value is success 
+2020-06-16       01:0644     Entered impute_missing_value method 
+2020-06-16       01:0645     Imputed missing values are success 
+2020-06-16       01:0645     Entered get_column_with_zero_std_dev method 
+2020-06-16       01:0646     column search for std is successful 
+2020-06-16       01:0646     Entered remove_columns method 
+2020-06-16       01:0646     Column removal successful 
+2020-06-16       01:0646     Entered the load_model method 
+2020-06-16       01:0646     model file KMeans loaded 
+2020-06-16       01:0646     Entered the find_correct_model_file method 
+2020-06-16       01:0646     Exited the find_correct_model_file method 
+2020-06-16       01:0646     Entered the load_model method 
+2020-06-16       01:0646     model file XGBoost2 loaded 
+2020-06-16       01:0646     Entered the find_correct_model_file method 
+2020-06-16       01:0646     Exited the find_correct_model_file method 
+2020-06-16       01:0646     Entered the load_model method 
+2020-06-16       01:0646     model file XGBoost0 loaded 
+2020-06-16       01:0647     Entered the find_correct_model_file method 
+2020-06-16       01:0647     Exited the find_correct_model_file method 
+2020-06-16       01:0647     Entered the load_model method 
+2020-06-16       01:0647     model file XGBoost1 loaded 
+2020-06-16       01:0647     End of Prediction 
+2020-06-16       01:4251     Strat Prediction 
+2020-06-16       01:4251     Entered the get_data method 
+2020-06-16       01:4252     Data Load Successful 
+2020-06-16       01:4252     Entered is_null_present method 
+2020-06-16       01:4252     Finding missing value is success 
+2020-06-16       01:4252     Entered impute_missing_value method 
+2020-06-16       01:4253     Imputed missing values are success 
+2020-06-16       01:4253     Entered get_column_with_zero_std_dev method 
+2020-06-16       01:4255     column search for std is successful 
+2020-06-16       01:4255     Entered remove_columns method 
+2020-06-16       01:4255     Column removal successful 
+2020-06-16       01:4255     Entered the load_model method 
+2020-06-16       01:4255     model file KMeans loaded 
+2020-06-16       01:4256     Entered the find_correct_model_file method 
+2020-06-16       01:4256     Exited the find_correct_model_file method 
+2020-06-16       01:4256     Entered the load_model method 
+2020-06-16       01:4256     model file XGBoost2 loaded 
+2020-06-16       01:4256     Entered the find_correct_model_file method 
+2020-06-16       01:4256     Exited the find_correct_model_file method 
+2020-06-16       01:4256     Entered the load_model method 
+2020-06-16       01:4256     model file XGBoost0 loaded 
+2020-06-16       01:4256     Entered the find_correct_model_file method 
+2020-06-16       01:4256     Exited the find_correct_model_file method 
+2020-06-16       01:4256     Entered the load_model method 
+2020-06-16       01:4256     model file XGBoost1 loaded 
+2020-06-16       01:4256     End of Prediction 
+2020-06-16       01:4608     Strat Prediction 
+2020-06-16       01:4608     Entered the get_data method 
+2020-06-16       01:4609     Data Load Successful 
+2020-06-16       01:4609     Entered is_null_present method 
+2020-06-16       01:4609     Finding missing value is success 
+2020-06-16       01:4609     Entered impute_missing_value method 
+2020-06-16       01:4609     Eror occured on impute_missing_values 
+2020-06-16       01:4609     Imputation unsuccessful 
+2020-06-16       01:5207     Strat Prediction 
+2020-06-16       01:5207     Entered the get_data method 
+2020-06-16       01:5208     Data Load Successful 
+2020-06-16       01:5208     Entered is_null_present method 
+2020-06-16       01:5208     Finding missing value is success 
+2020-06-16       01:5208     Entered impute_missing_value method 
+2020-06-16       01:5209     Imputed missing values are success 
+2020-06-16       01:5209     Entered get_column_with_zero_std_dev method 
+2020-06-16       01:5210     column search for std is successful 
+2020-06-16       01:5210     Entered remove_columns method 
+2020-06-16       01:5210     Column removal successful 
+2020-06-16       01:5210     Entered the load_model method 
+2020-06-16       01:5210     model file KMeans loaded 
+2020-06-16       01:5233     Strat Prediction 
+2020-06-16       01:5233     Entered the get_data method 
+2020-06-16       01:5233     Data Load Successful 
+2020-06-16       01:5233     Entered is_null_present method 
+2020-06-16       01:5233     Finding missing value is success 
+2020-06-16       01:5233     Entered impute_missing_value method 
+2020-06-16       01:5234     Imputed missing values are success 
+2020-06-16       01:5234     Entered get_column_with_zero_std_dev method 
+2020-06-16       01:5235     column search for std is successful 
+2020-06-16       01:5235     Entered remove_columns method 
+2020-06-16       01:5235     Column removal successful 
+2020-06-16       01:5235     Entered the load_model method 
+2020-06-16       01:5235     model file KMeans loaded 
+2020-06-16       01:5302     Strat Prediction 
+2020-06-16       01:5302     Entered the get_data method 
+2020-06-16       01:5302     Data Load Successful 
+2020-06-16       01:5302     Entered is_null_present method 
+2020-06-16       01:5302     Finding missing value is success 
+2020-06-16       01:5302     Entered impute_missing_value method 
+2020-06-16       01:5303     Imputed missing values are success 
+2020-06-16       01:5303     Entered get_column_with_zero_std_dev method 
+2020-06-16       01:5305     column search for std is successful 
+2020-06-16       01:5305     Entered remove_columns method 
+2020-06-16       01:5305     Column removal successful 
+2020-06-16       01:5305     Entered the load_model method 
+2020-06-16       01:5305     model file KMeans loaded 
+2020-06-16       01:5359     Strat Prediction 
+2020-06-16       01:5359     Entered the get_data method 
+2020-06-16       01:5359     Data Load Successful 
+2020-06-16       01:5359     Entered is_null_present method 
+2020-06-16       01:5359     Finding missing value is success 
+2020-06-16       01:5359     Entered impute_missing_value method 
+2020-06-16       01:5400     Imputed missing values are success 
+2020-06-16       01:5400     Entered get_column_with_zero_std_dev method 
+2020-06-16       01:5402     column search for std is successful 
+2020-06-16       01:5402     Entered remove_columns method 
+2020-06-16       01:5402     Column removal successful 
+2020-06-16       01:5402     Entered the load_model method 
+2020-06-16       01:5402     model file KMeans loaded 
+2020-06-16       01:5402     Error occured while running the prediction 
+2020-06-16       01:5706     Strat Prediction 
+2020-06-16       01:5706     Entered the get_data method 
+2020-06-16       01:5706     Data Load Successful 
+2020-06-16       01:5706     Entered is_null_present method 
+2020-06-16       01:5706     Finding missing value is success 
+2020-06-16       01:5706     Entered impute_missing_value method 
+2020-06-16       01:5707     Imputed missing values are success 
+2020-06-16       01:5707     Entered get_column_with_zero_std_dev method 
+2020-06-16       01:5709     column search for std is successful 
+2020-06-16       01:5709     Entered remove_columns method 
+2020-06-16       01:5709     Column removal successful 
+2020-06-16       01:5709     Entered the load_model method 
+2020-06-16       01:5709     model file KMeans loaded 
+2020-06-16       01:5709     Entered the find_correct_model_file method 
+2020-06-16       01:5709     Exited the find_correct_model_file method 
+2020-06-16       01:5709     Entered the load_model method 
+2020-06-16       01:5709     model file XGBoost2 loaded 
+2020-06-16       01:5709     Entered the find_correct_model_file method 
+2020-06-16       01:5709     Exited the find_correct_model_file method 
+2020-06-16       01:5709     Entered the load_model method 
+2020-06-16       01:5709     model file XGBoost0 loaded 
+2020-06-16       01:5709     Entered the find_correct_model_file method 
+2020-06-16       01:5709     Exited the find_correct_model_file method 
+2020-06-16       01:5709     Entered the load_model method 
+2020-06-16       01:5709     model file XGBoost1 loaded 
+2020-06-16       01:5709     End of Prediction 
+2020-06-18       15:1331     Strat Prediction 
+2020-06-18       15:1331     Entered the get_data method 
+2020-06-18       15:1332     Data Load Successful 
+2020-06-18       15:1332     Entered is_null_present method 
+2020-06-18       15:1332     Finding missing value is success 
+2020-06-18       15:1332     Entered impute_missing_value method 
+2020-06-18       15:1333     Imputed missing values are success 
+2020-06-18       15:1333     Entered get_column_with_zero_std_dev method 
+2020-06-18       15:1334     column search for std is successful 
+2020-06-18       15:1334     Entered remove_columns method 
+2020-06-18       15:1334     Column removal successful 
+2020-06-18       15:1334     Entered the load_model method 
+2020-06-18       15:1334     model file KMeans loaded 
+2020-06-18       15:1334     Error occured while running the prediction 
+2020-06-18       15:1551     Strat Prediction 
+2020-06-18       15:1551     Entered the get_data method 
+2020-06-18       15:1551     Data Load Successful 
+2020-06-18       15:1551     Entered is_null_present method 
+2020-06-18       15:1551     Finding missing value is success 
+2020-06-18       15:1551     Entered impute_missing_value method 
+2020-06-18       15:1552     Imputed missing values are success 
+2020-06-18       15:1552     Entered get_column_with_zero_std_dev method 
+2020-06-18       15:1554     column search for std is successful 
+2020-06-18       15:1554     Entered remove_columns method 
+2020-06-18       15:1554     Column removal successful 
+2020-06-18       15:1554     Entered the load_model method 
+2020-06-18       15:1554     model file KMeans loaded 
+2020-06-18       15:1554     Entered the find_correct_model_file method 
+2020-06-18       15:1554     Exited the find_correct_model_file method 
+2020-06-18       15:1554     Entered the load_model method 
+2020-06-18       15:1554     model file XGBoost2 loaded 
+2020-06-18       15:1554     Entered the find_correct_model_file method 
+2020-06-18       15:1554     Exited the find_correct_model_file method 
+2020-06-18       15:1554     Entered the load_model method 
+2020-06-18       15:1554     model file XGBoost0 loaded 
+2020-06-18       15:1554     Entered the find_correct_model_file method 
+2020-06-18       15:1554     Exited the find_correct_model_file method 
+2020-06-18       15:1554     Entered the load_model method 
+2020-06-18       15:1554     model file XGBoost1 loaded 
+2020-06-18       15:1554     End of Prediction 
